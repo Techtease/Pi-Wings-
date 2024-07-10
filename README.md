@@ -35,4 +35,4 @@ Market Appeal
 Conclusion
 The Pi Wings drone by SB Components stands out in the market for its educational value, customizability, and the powerful integration of the Raspberry Pi Pico. Whether you're looking to learn, innovate, or capture stunning aerial images, this drone offers a versatile and accessible platform to meet your needs. Get ready to soar with Pi Wings, where education meets innovation in the skies!
 
-
+Get it here https://shop.sb-components.co.uk/
